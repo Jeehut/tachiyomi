@@ -345,7 +345,7 @@
     <plurals name="notification_new_chapters_summary">
         <item quantity="one">Pre 1 titul</item>
         <item quantity="few">Pre %d titulov</item>
-        <item quantity="other"/>
+        <item quantity="other">Pre %d titulov</item>
     </plurals>
     <string name="notification_check_updates">Hľadám nové kapitoly</string>
     <string name="hide_notification_content">Skryť obsah upozornení</string>

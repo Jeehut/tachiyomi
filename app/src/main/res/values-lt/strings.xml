@@ -253,6 +253,6 @@
     <plurals name="num_categories">
         <item quantity="one">Kategorija</item>
         <item quantity="few">Kategorijos</item>
-        <item quantity="other"/>
+        <item quantity="other">Kategorijos</item>
     </plurals>
 </resources>
